@@ -7,9 +7,7 @@
 <p align="center">A tech enthusiast with a passion for open-source technology and programming  languages like Python and C .</p>
 
 
-# count_letter_type
-count letter type
-
+# count letter type
 
 
 ## Run Locally
