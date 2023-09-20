@@ -36,10 +36,10 @@ int main(void)
            other = other + 1 ;
         }
    }
-    printf("capital ＝%d \n",capital);
-    printf("Small ＝%d \n",small);
-    printf("Numbers ＝%d \n",number);
-    printf("Others ＝%d \n",other);
+    printf("capital =%d \n",capital);
+    printf("Small =%d \n",small);
+    printf("Numbers =%d \n",number);
+    printf("Others =%d \n",other);
 
 return 0 ;
   
